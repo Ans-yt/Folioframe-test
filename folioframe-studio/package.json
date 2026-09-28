@@ -1,0 +1,13 @@
+{
+  "name": "folioframe-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A private, browser-based studio for composing website screenshots into portfolio-ready frames.",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node tests/core.test.js",
+    "serve": "python -m http.server 4173 --bind 127.0.0.1"
+  },
+  "keywords": ["frontend", "design-tool", "portfolio", "static-site", "creative-coding"],
+  "license": "MIT"
+}

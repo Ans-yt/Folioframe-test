@@ -1,0 +1,15 @@
+{
+  "name": "Folioframe Studio",
+  "short_name": "Folioframe",
+  "description": "A private proof room for composing website screenshots.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f3f4f3",
+  "theme_color": "#f3f4f3",
+  "icons": [{
+    "src": "assets/favicon.svg",
+    "sizes": "any",
+    "type": "image/svg+xml",
+    "purpose": "any maskable"
+  }]
+}
